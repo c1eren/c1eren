@@ -1,9 +1,3 @@
 # About
-
-  Learning graphics programming one failure at a time.
-
-    We persevere.
-    
-<!--
-  Don't look here there ain't nothin for you 
--->
+I'm a young, passionate, and driven Software Engineer; versatile, and hungry for knowledge. Success is non-negotiable!
+I love graphics programming in my downtime.
